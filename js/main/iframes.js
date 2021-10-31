@@ -39,7 +39,7 @@ const durations = Object.fromEntries(frames.map(frame => ([frame, []])));
 
 let p = Promise.resolve();
 
-for (let i = 0; i < 3; i++) {
+for (let i = 0; i < 10; i++) {
     frames.forEach(frame => p = p.then(() => waitForMessage(frame)));
 }
 
