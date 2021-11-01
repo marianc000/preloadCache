@@ -1,4 +1,4 @@
-# Does preloading of modules make sense?
-An easy to implement technique relieving developers of bundling
+# What is better preloading or caching JavaScript modules?
+Better for boths users and developers. An easy to implement technique relieving developers of bundlers
 
-Sample code for post https://marian-caikovski.medium.com/does-preloading-of-modules-make-sense-7c3ee9ccdd45 about the performance benefits of module preloading with link type="modulepreload"
+Sample code for post https://marian-caikovski.medium.com/what-is-better-preloading-or-caching-javascript-modules-246d3573e6ad about the performance benefits of module preloading and caching
